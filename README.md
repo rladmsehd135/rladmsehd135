@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EB%A8%BC%EC%A0%80+%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%81%9D%EA%B9%8C%EC%A7%80+%EC%B1%85%EC%9E%84%EC%A7%80%EB%A9%B0+%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Backend%2C+Frontend%2C+Infra%EB%A5%BC+%EB%AA%A8%EB%91%90+%EB%8B%A4%EB%A3%A8%EB%8A%94+%ED%92%80%EC%8A%A4%ED%83%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=750&lines=%EB%B3%B5%EC%9E%A1%ED%95%9C+%EB%B2%84%EA%B7%B8%EB%8F%84+%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B5%AC%EC%A1%B0%EB%B6%80%ED%84%B0+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%EC%82%AC%EB%9E%8C;%EB%82%A8%EB%93%A4%EC%9D%B4+%ED%94%BC%ED%95%98%EB%8A%94+%EC%96%B4%EB%93%9C%EB%AF%BC%EA%B3%BC+%EC%9D%B8%ED%94%84%EB%9D%BC%EA%B9%8C%EC%A7%80+%EB%81%8C%EC%96%B4%EC%95%88%EB%8A%94+%EC%82%AC%EB%9E%8C;%EC%8B%9C%EC%9E%91%ED%95%9C+%EC%9D%BC%EC%9D%80+%EC%99%84%EC%84%B1%EB%8F%84+%EC%9E%88%EA%B2%8C+%EB%81%9D%EB%A7%BA%EB%8A%94+%EC%82%AC%EB%9E%8C" alt="Typing SVG" />
 
 <br>
 
